@@ -1,0 +1,542 @@
+2016.02.02 
+{
+Arrows: damage -4%
+Freeze: radius 4->3, duration +0.3s per level (from 0.4s)
+Wizard: dmg -7%
+Barbarians: hitpoints -4%
+Bomber: attack speed increase, 2s -> 1.9s
+Golem: Hitpoints, damage and death damage increased by 43%.Golemite: Hitpoints, damage and death damage decreased by 43%
+P.E.K.K.A: Hitpoints decreased by 13%, cost decreased to 7 (from 8)
+X-Bow: Hitpoints decreased by 15%, only targets ground (from air & ground)
+Inferno Tower: Lifetime decreased to 45 seconds (from 60 seconds), re-targeting 50% slower
+Cannon: Cost decreased to 3 (from 6), range to 6 (from 7), lifetime to 40 seconds (from 60 seconds) and hitpoints decreased by 55%
+Mortar: Cost decreased to 4 (from 6), damage decreased by 40%, lifetime to 20 seconds (from 40 seconds) and range decreased to 12 (from 13)
+Mirror:Level of mirrored Common Cards increased by 4 and mirrored Rare Cards by 2
+Bomb Tower: Attack speed increased to 1.7 seconds (from 1.8 seconds)
+Barbarian Hut: Hitpoints increased by 10%
+Elixir Collector: Production speed increased to 9.8 seconds (from 9.9 seconds)
+}
+
+2016.02.09
+{
+Mini P.E.K.K.A: Hitpoints increased by 3%
+Valkyrie: Attack speed increased to 1.5 seconds (from 1.6 seconds)
+Giant: Hitpoints increased by 5%
+Tombstone: Spawns 4 Skeletons when destroyed (from 6 Skeletons)
+Mortar: Lifetime increased to 30 seconds (from 20 seconds)
+Bomb Tower: Attack speed increased to 1.6 seconds (from 1.7 seconds)
+Musketeer: Damage decreased by 25% and Elixir cost reduced to 4 (from 5 Elixir)
+Tesla: Damage increased by 7%
+X-Bow: Deployment time increased to 5 seconds (from 3 seconds)
+Zap: Damage increased by 6%
+}
+
+2016.02.29
+{
+Zappies: Now stuns target for 1 second, damage reduced by 6%
+Giant Skeleton:Hitpoints increased by 11%, bomb timer increased to 3 seconds (from 1 second)
+Tesla: Hitpoints decreased by 5%
+Rage: Effect falls off quicker when troops leave the Rage area
+}
+
+2016.03.23
+{
+X-Bow: Range decreased to 12 (from 13)
+Tesla: Hit speed decreased to 0.8sec (from 0.7sec), lifetime decreased to 40sec (from 60sec)
+Cannon: Lifetime decreased to 30sec (from 40sec)
+Princess: Hitpoints decreased by 10%
+Ice Wizard: Damage increased by 5%
+Prince: Charge speed decreased by 13%
+Dark Prince: Charge speed decreased by 13%
+Valkyrie: Hitpoints and damage increased by 10%
+Royal Giant: Damage increased by 20%
+Giant: Damage increased by 5%
+Rage: Gives 40% movement and attack speed boost (from 35%), duration decreased by 20%
+Poison: Damage increased by 5%
+Mirror: Legendary Cards mirrored 1 level lower
+Three Musketeers: Cost decreased to 9 (from 10)
+Archers: Quicker initial attack (like Spear Goblins)
+Balloon: Hitpoints increased by 5%
+Witch: Damage increased by 5%
+}
+
+2016.05.03
+{
+Mortar: Deployment time increased to 5sec (from 3sec), damage decreased by 10%
+Bomb Tower: Lifetime decreased to 40sec (from 60sec)
+Elixir Collector: Hitpoints decreased by 20%
+Cannon: Hitpoints decreased by 11%
+Royal Giant: Range increased by 1
+Mirror: Common and Rare Cards mirrored 1 level higher
+Valkyrie: Will be affected by pushback (e.g. when hit by Fireball)
+Mini P.E.K.K.A: Will be affected by pushback (e.g. when hit by Fireball)
+}
+
+2016.06.21
+{
+Hog Rider: Damage decreased by 6%
+Prince: Damage increased by 9%
+P.E.K.K.A: Damage increased by 8%
+Goblin Barrel: Goblin deploy time decreased to 1sec (from 1.2sec)
+X-Bow: Deploy time decreased to 4sec (from 5sec), hitpoints increased by 18%
+Mortar: Deploy time decreased to 4sec (from 5sec)
+Furnace: Lifetime increased to 50sec (from 40sec)
+Guards: Removed pushback effect when their shields break
+Witch: Damage increased by 17%
+Lava Hound: Damage increased by 28%
+Skeletons: Spawns 3 (from 4)
+Cannon: Hitpoints decreased by 8%
+Tesla: Hitpoints increased by 8%
+}
+
+2016.07.04
+{
+Skeleton Army: Skeleton count increased to 21 (from 20)
+Goblin Barrel: Elixir cost decreased to 3 (from 4), Goblin deploy time increased to 1.2sec (from 1sec), removed impact damage
+Giant Skeleton: Damage increased by 20% (doesn’t affect Death Damage)
+Dark Prince: Damage increased by 8%, no longer affected by knock back (e.g. when hit by Fireball)
+Bomber: Damage increased by 9%
+Wizard: Hit Speed increased to 1.6sec (from 1.7sec)
+Inferno Tower: Hitpoints increased by 6%
+Elixir Collector: Now affected by slowing and speed up effects (Poison, Freeze, Zap, Rage, Ice Wizard)
+Tombstone: Hitpoints increased by 9%
+Bomb Tower: Hitpoints increased by 6%
+}
+
+2016.08.24
+{
+Royal Giant: Hit Speed decreased to 1.7sec (from 1.5sec)
+Zappies: Stun Duration decreased to 0.5sec (from 1sec)
+Princess: Area Damage radius decreased by 25%
+Ice Wizard: Hit Points decreased by 5%
+Miner: Deploy Time increased to 1sec (from 0.7sec), Hitpoints decreased by 6%
+Baby Dragon: Hit Speed increased to 1.6sec (from 1.8sec)
+Dark Prince: Damage increased by 7.5%
+Bowler: Elixir cost decreased to 5 (from 6), Hitpoints decreased by 7%, Damage decreased by 10%
+Lumberjack: Speed increased to Very Fast (from Fast), Hit Speed increased to 0.7sec (from 1.1sec), Damage decreased by 23%
+The Log: Cast time decreased by 66%, travel speed increased by 20%
+Golem: Hit and Death Damage increased by 5%, Hitpoints increased by 1%, Golemite: Hit and Death Damage increased by 8%, Hitpoints increased by 3.2%
+P.E.K.K.A: Damage increased by 5%
+Tombstone: Spawn Speed increased to 2.5sec (from 2.9sec)
+Archers: Damage increased by 2%
+Prince: Damage increased by 2%
+}
+
+2016.09.19
+{
+Giant: Damage decreased by 5%
+Rage: Elixir cost decreased to 2 (from 3), effect decreased to 30% (from 40%), duration decreased by 2sec
+Lumberjack: Rage effect decreased to 30% (from 40%), Rage duration decreased by 2sec
+Mirror: Mirrors cards 1 level higher than its own level
+Lightning: Stuns targets for 0.5sec
+The Log: Knocks back ALL ground troops
+Bomber: Hitpoints decreased by 2%, Damage increased by 2%
+}
+
+2016.10.20
+{
+Giant: Hitpoints decreased by 5%
+Poison: No longer slows movement and attack speed
+Elixir Collector: Elixir cost increased to 6 (from 5), Elixir gain increased to 8 (from 7), Lifetime increased by 10sec
+The Log: Rolls faster and further, Damage increased by 8%
+Skeleton Army: Elixir cost decreased to 3 (from 4), Skeleton count decreased to 16 (from 21), Skeleton level increased by 5
+Ice Golem: Death Damage also damages flying troops
+Golem: Death Damage also damages flying troops
+}
+
+2016.11.12 
+{
+Prince: health-4%
+Goblin Barrel: goblin level -1
+Witch: Skeleton level -1
+Mortar: lifetime -40s
+}
+
+2016.12.15 
+{
+Elite Barbarians: Hitpoints +19%, Damage +14%, Hit Speed to 1.4sec (from 1.5sec)
+Tornado: Radius +10%, stronger pulling power
+Inferno Dragon: Hitpoints +5%, re-targets 0.4sec quicker
+Balloon: Death Damage +105%, Death Damage explosion radius +50%
+Wizard: Hit Speed to 1.4sec (from 1.6sec), initial attack comes 0.2sec slower
+Giant Skeleton: Damage +8%
+Lumberjack: Hitpoints +6%
+Bomber: Damage +4%
+Mortar: Boulder explosion radius +11
+Mirror: Level 8 Mirror will create max level +1 cards (again)
+}
+
+2017.01.23
+{
+Elite Barbarians: Hitpoints -4%, Damage -4%, Hit Speed to 1.5sec (from 1.4sec)
+Zap: Damage -6%
+Electro Wizard: Hitpoints +9%, Spawn Damage -6%
+Mega Minion: Damage -4%, Hit Speed to 1.5sec (from 1.4sec)
+Archers: Hitpoints -4%
+The Log: Damage -4%, knock back effect reduced
+Ice Golem: Hitpoints -5%, Death Damage radius and slow duration reduced
+Ice Spirit: Damage -10%
+Wizard: Range +0.5
+}
+
+2017.02.13
+{
+Executioner: Damage -6%, Range to 4.5 (from 5), axe hit radius -10%
+Poison: Duration to 8sec (from 10sec), Damage per second +24%
+Witch: Damage +6%
+P.E.K.K.A: Deploy Time to 1sec (from 3sec)
+Dark Prince: Hitpoints +5%
+Baby Dragon: Range to 3.5 (from 3)
+Skeletons: Skeleton Count to 4 (from 3)
+Skeleton Army: Skeleton Count to 15 (from 16)
+}
+
+2017.03.13
+{
+Executioner: Axe hit radius +10%
+The Log: Damage -4%
+Arrows: Projectile speed +33%
+Clone: No longer resets charging troops (Princes, Sparky, etc.)
+Lumberjack: Rage Duration +1.5sec and +0.5sec per level
+Bomb Tower: Projectile speed +66%
+Electro Wizard: No longer permanently stuns
+Tornado: Can be placed on top of buildings
+}
+
+2017.04.19
+{
+Royal Giant: Deploy Time to 2sec (from 1sec)
+Elite Barbarians: Hitpoints -4%, initial attack comes 0.1sec slower
+Furnace: Hitpoints -5%
+Goblin Hut: Hitpoints +5%
+Electro Wizard: Hit Speed to 1.8sec (from 1.7sec)
+Executioner: Damage +6%
+Balloon: Death Damage delay to 3sec (from 1sec)
+Skeleton Army: Skeleton count decreased to 14 (from 15)
+Lumberjack: Hitpoints +4%
+}
+
+2017.06.12
+{
+Night Witch: Spawns 3 Bats on death (from 4), Bat spawn speed to 6sec (from 5sec), initial Bats spawn slower
+Poison: Multiple of same spell will stack
+Heal: Multiple of same spell will stack
+Tornado: Duration to 2.5sec (from 3sec); Multiple of same spell will stack
+The Log: Range to 11.1 (from 11.6)
+Goblin Gang: Spear Goblin count to 2 (from 3)
+Skeletons: Skeleton count to 3 (from 4)
+Bandit: Hitpoints +4%, Dash initiates quicker
+Inferno Dragon: Hitpoints +7%, re-targets 0.2sec quicker
+Witch: Hitpoints +5%, Area damage radius +10%, spawn speed to 7sec (from 7.5sec), initial Skeletons spawn slower
+Clone: Faster cloning effect
+Battle Ram: Damage that destroys the Ram won't affect Barbarians (removed)
+Bats: Bat count to 4 (from 5)
+}
+
+
+2017.08.11
+{
+Night Witch: Damage -9%, range -11%, Bat spawn speed to 7sec (from 6sec), spawns 2 Bats on death (from 3)
+Battle Ram: Takes a bit longer to begin charging, Barbarians spawn slower
+Graveyard: Duration to 9sec (from 10sec), spawns 15 Skeletons (from 17)
+Electro Wizard: Hitpoints -2%
+Heal: Duration to 2.5sec (from 3sec)
+Mini P.E.K.K.A: Damage +4.6%
+X-Bow: Deploy time to 3.5sec (from 4sec)
+Mortar: Deploy time to 3.5sec (from 4sec)
+Dark Prince: Damage +6%, hit speed to 1.4sec (from 1.5sec)
+Ice Wizard: Damage +10%, hit speed to 1.7sec (from 1.5sec)
+Bats: Bat count to 5 (from 4)
+}
+
+2017.10.09
+{
+Sparky: Hit speed to 4sec (from 5sec), damage -15%
+Tesla: Damage +41%, hit speed to 1sec (from 0.8sec)
+Electro Wizard: Damage -4%, first attack comes 0.2sec slower
+Graveyard: Duration to 10sec (from 9sec), radius to 4 (from 5), first Skeleton spawns 0.5sec slower, Skeletons spawn less randomly
+Cannon Cart: Hitpoints +5%, shield hitpoints +5%
+Lightning: Damage -3%, radius to 3 (from 3.5)
+Spear Goblins: Hit speed to 1.1sec (from 1.3sec)
+Valkyrie: Damage +5%
+}
+
+
+2017.12.12
+{
+Hog Rider: Hit speed to 1.6sec (from 1.5sec), first attack comes 0.1sec slower
+Knight: Hit speed to 1.2sec (from 1.1sec)
+Prince: Hitpoints +5%, hit speed to 1.4sec (from 1.5sec) 
+Fireball: Crown Tower Damage to 35% (from 40%)
+Lightning: Crown Tower Damage to 35% (from 40%)
+Zap: Crown Tower Damage to 35% (from 40%)
+The Log: Crown Tower Damage to 35% (from 40%)
+Poison: Crown Tower Damage to 35% (from 40%)
+Rocket: Crown Tower Damage to 35% (from 40%)
+Arrows: Crown Tower Damage to 35% (from 40%)
+Ice Golem: Death Damage slow effect duration to 1sec (from 2sec)
+Skeleton Barrel: Added Death Damage
+Giant Skeleton: Hitpoints +5%
+Guards: Damage +5%, hitpoints +5%, hit speed to 1.1sec (from 1.2sec)
+Goblins: (affects Goblins, Goblin Gang, Goblin Barrel) Damage -6%
+Elixir Collector: Hitpoints -13%
+}
+
+2018.01.24
+{
+Royal Ghost: Damage -6%; Invisibility delay 0.7sec → 1.2 sec; Hit Speed 1.7sec → 1.8sec
+Zap: Targets Ground and Air
+Hunter: Range 5 → 4; Bullet spread slightly smaller (projectile range remains at 6.5)
+Night Witch: Initial Bats spawn quicker
+Bats: Hit Speed 1sec → 1.1sec
+Lava Hound: Hitpoints +5%
+Goblin Hut: Spawn Speed 4.9sec → 5sec (one less spawn in total)
+Mini P.E.K.K.A: Hitpoints +7%
+Lumberjack: Hitpoints +7%
+Mortar: Minimum Range 4.5 → 3.5
+}
+
+2018.02.12
+{
+Mega Knight: Spawn and Jump Damage -25%; Deployment radius reduced (deployment won't hit beyond bridge and river)
+Skeleton Barrel: Skeleton count 8 → 6
+Knight: Hitpoints -6%
+Inferno Dragon: Switches between targets slower
+Valkyrie: Hit Speed 1.5sec → 1.4sec
+Bandit: Minimum Dash Range 4 → 3.5
+Dark Prince: Hit Speed 1.4sec → 1.3sec; Hitpoints +5%
+}
+
+2018.04.25
+{
+Dark Prince: Shield Hitpoints -25%
+Spear Goblins: (affects Spear Goblins, Goblin Gang, Goblin Hut) Hit Speed 1.1sec → 1.2sec
+Barbarian Barrel: Range 6.5 → 7
+Knight: Hitpoints +3%
+Dart Goblin: Damage +3%
+Ice Spirit: Area Damage -4%; Freeze Duration 1.5sec → 1sec
+Skeleton Barrel: Skeleton count 6 → 7
+Lightning: Radius 3 → 3.5
+Tornado: Duration 2.5sec → 2 sec; Damage per second +21% (this affects Total Damage -3%)
+Magic Archer: hits moving targets better
+}
+
+
+2018.06.04
+{
+Spear Goblins: Damage +34%, Hit Speed slower 1.2sec -> 1.7sec, first attack slower
+Goblin Hut: Lifetime shorter 60sec -> 50sec
+Mega Knight: Jump/Spawn Damage +23%, Area Damage -7.5%
+Barbarians: Hit Speed faster 1.5sec -> 1.4sec
+Battle Ram: Can be knocked back (by Barbarian Barrel, Fireball, etc.)
+Royal Ghost: Invisibility delay increased 1.2sec -> 1.6sec
+Wizard: Area Damage +2%, Area Damage radius +25%
+Valkyrie: Hitpoints +7%, first attack faster
+Ice Golem: Hitpoints -5%
+}
+
+
+2018.06.20
+{
+Clone: Radius increased 3 -> 4
+Heal: Radius increased 3 -> 4
+Minions/Minion Horde: Added 0.15sec Deploy Time between each Minion
+Barbarian Barrel: Area Damage +17%, Barbarian spawn location visible
+Mega Knight: Jump/Dash Minimum Range 4 -> 3.5
+Battle Ram: Charge Up Distance 4 -> 3.5
+Prince: Charge Up Distance 2.5 -> 3.5
+Dark Prince: Charge Up Distance 2.5 -> 3.5
+Mirror: Will no longer appear in opening hand
+}
+
+2018.07.02
+{
+Rascals: Rascal Boy: Hitpoints -5.3%,Rascal Girl: First attack slower
+Mortar: Area Damage -3.5%, Hitpoints -4%
+Witch: Hitpoints +17%, Spawn Speed increased 7sec -> 5sec, Hit Speed slower 0.7sec -> 1sec
+Fire Spirits: Area Damage +5%
+Bomber: Range increased 4.5 -> 5
+Mega Minion: Hit Speed slower 1.5sec -> 1.6sec
+Goblins: Hitpoints -1%
+}
+
+2018.08.06
+{
+Inferno Dragon: Range decreased 4.0 → 3.5, can be knocked back
+Royal Hogs: First attack faster
+Baby Dragon: Hit Speed faster 1.6sec → 1.5sec, can be knocked back
+Knight: Damage +5%
+Tesla: Lifetime shorter 40sec → 35sec, Hit Speed slower 1sec → 1.1sec
+Bomb Tower: Elixir cost decreased 5 → 4, Lifetime shorter 40sec → 35sec, Hitpoints -33%
+Cannon Cart: Cannon Lifetime longer 20sec → 30sec, transforms into Cannon faster, immune to knock back
+Balloon: Can be knocked back
+}
+
+2018.09.03
+{
+Valkyrie: Hit Speed slower 1.4sec -> 1.6sec
+Royal Recruits: Damage +12%
+Barbarian Barrel: Elixir cost decreased 3 -> 2, Damage -9%, Range shorter 7 -> 5, removed knock back
+Witch: Hitpoints -3.5%
+Prince: Hitpoints +5%
+Lightning: Damage +5%
+Royal Hogs: Hit Speed slower 1.1sec -> 1.2sec
+Cannon Cart: Range shorter 5.5 –> 5
+Zap: Changed reload mechanics
+}
+
+2018.10.01
+{
+Royal Giant: Range shorter 6.5 -> 5.0, Damage +60%, Deploy Time quicker 2sec -> 1sec
+Goblin Giant: Hitpoints +6%
+Bomb Tower: Area Damage +5%
+Goblin Hut: Spawn Speed quicker 5sec -> 4.7sec
+Skeleton Army: Skeleton Count increased 14 -> 15
+Barbarian Barrel: Barrel rolls faster, Barbarian jumps out quicker
+Giant Snowball: Slowdown Duration longer 2sec -> 2.5sec, Area Damage +10%
+Ice Wizard: Slowdown Duration longer 2sec -> 2.5sec
+}
+
+2018.11.05
+{
+Royal Ghost: Hitpoints -9%
+Royal Hogs: Damage -6%
+Inferno Tower: Hitpoints +3%
+Skeleton Barrel: Death Damage +62%
+Mega Knight: Hit Speed faster 1.8sec -> 1.7sec
+Tombstone: Spawn Speed slower 2.9sec -> 3.1sec. When destroyed, spawned skeletons reduced 4 -> 3
+Giant: Hitpoints -2%
+Magic Archer: First attack slower
+Cannon Cart: Hit Speed slower 1.2sec -> 1.3sec
+Dart Goblin: Damage +4% (Player Choice!)
+}
+
+2018.12.03
+{
+Electro Dragon: Hitpoints -5%, first attack slower
+Royal Recruits: Elixir Cost decreased 8 -> 7, Hit Speed slower 1.2 -> 1.3
+Barbarian Barrel: Damage -5%
+Tesla: First attack faster
+Archers: Damage +2.5%, Hitpoints -1%
+Ice Wizard: Damage +10%, Hitpoints -11%
+Giant Snowball: Damage +14%
+}
+
+2019.01.07
+{
+Heal: Elixir Cost decreased 3 -> 1, Duration Reduced 2.5 -> 2, Healing/sec -63%
+Magic Archer: First Attack faster
+Goblin Giant: Hitpoints +3%, Spear Goblin Range Increased
+Golem: Golemite Death Damage Pushback reduced
+Freeze: Tower Damage -65%
+Sparky: Range Increased 4.5 -> 5
+Battle Ram: Charge Damage -11%
+Barbarian Hut: Hitpoints -7%
+Barbarian Barrel: Deploy Time reduced
+Valkyrie: Hit Speed increased 1.6 -> 1.5
+}
+
+2019.02.04
+{
+Musketeer: Damage +3%
+Three Musketeers: Elixir Cost increased 9 -> 10
+Freeze: Damage -6%, Freeze Duration Reduced 5.0sec -> 4.0sec
+Cannon Cart: Hit Speed faster 1.3 -> 1.2
+Knight: Hitpoints +2.5%
+Dart Goblin: Hit Speed slower 0.65sec -> 0.7sec
+Clone: New Clone placement (Clone now placed behind Cloned troop)
+}
+
+2019.03.04
+{
+Barbarians: Hitpoints -13%, Troop Count 4 -> 5 (This also affects the Hitpoints of Barbarians in the following cards; Battle Ram, Barbarian Hut, Barbarian Barrel)
+Bomb Tower: Added Death Damage (deals 2x Area Damage)
+Wall Breakers: Hit Speed 1.5 -> 1.2
+X-Bow: Hitpoints +4%
+Goblin Gang: Added 0.15sec Deploy Time between Troops
+Rascals: Added 0.15sec Deploy Time between Troops
+Bats: Added 0.15sec Deploy Time between Troops
+Barbarians: Added 0.15sec Deploy Time between Troops
+}
+
+2019.04.01
+{
+Witch: Spawns 3 Skeletons when destroyed
+Flying Machine: Hit Speed reduced 1.0sec -> 1.1sec
+Ram Rider: Snare Movement Reduction reduced 100% -> 85%
+Giant Skeleton: First Attack faster 0.5sec -> 0.3sec, Mass increased 15 -> 18 (harder to move/push)
+Bandit: Hitpoints -4%
+Goblin Hut: Spawn Speed increased 4.75sec -> 4.5sec
+}
+
+2019.04.15
+{
+Clone: Radius reduced 4 -> 3
+}
+
+2019.05.06
+{
+Three Musketeers: Elixir 10 -> 9, Deploy Time increased 1sec -> 3sec, added 0.15sec Deploy Time between Musketeers
+Wall Breakers: Damage +10%, Range increased by 100% (250 -> 500), deals Damage to nearby Troops when attacking
+Goblin Barrel: Deploy Time reduced 1.2s -> 1.1s
+Princess: Projectile Speed increased 33% (450-> 600)
+Dark Prince: Range increased by 20% (1050 -> 1250), Area Damage Radius Increased 25% (1000 -> 1250)
+Bomber: Hitpoints +28% (147 ->188)
+}
+
+2019.06.03
+{
+Elite Barbarians: Damage: +18% Hit Speed: -13% (1.5sec -> 1.7sec)
+Rascals: Boy Hit Speed: -13% (1.3sec -> 1.5sec)
+Arrows: Projectile Speed: +37% (800 -> 1100)
+Barbarian Barrel: Damage: -10%
+}
+
+2019.07.01
+{
+Cannon Cart: Damage-17%, Range: +10% (5 -> 5.5), Hit Speed: +17% (1.2sec -> 1.0sec), Hitpoints / Shield: +1.5%
+Cannon: Damage: +32%, Hit Speed: -25% (0.8sec -> 1sec)
+Giant Snowball: Radius: Reduced 3.0 -> 2.5
+Inferno Tower: Lifetime: -25% (40s -> 30s)
+Goblin Cage: Lifetime: +33% (15s -> 20s),Goblin Brawler: Damage +25%
+}
+
+2019.09.02
+{
+Executioner: Damage +84%, Hitpoints -5%, Range reduced (min 4.5 - 6.5 max) > (min 4 - 4.5 max), Hit Speed reduced 2.4sec > 2.5sec, Faster Axe return time (1.5 sec > 1sec)
+Royal Ghost: Area Damage Radius: 0.8 > 1
+Dark Prince: Area Damage Radius: 1.2 > 1.1
+P.E.K.K.A: Range: Long > Medium
+Goblin Cage: Goblin Brawler Speed: Very Fast > Fast
+Fisherman: Elixir Cost: 4 > 3, Damage: -11%
+}
+
+2019.09.05
+{
+Executioner: Minimum Range: 3 -> 4, Damage: +2%
+Fisherman: Hitpoints -5%
+}
+
+
+2019.10.07
+{
+Witch: Hitpoints: -12%, Damage: +220%, Hit Speed: -40%, Splash: -45%, Changes to spawned Skeletons: Spawns 4 skeletons around the Witch, Spawn Time slower 5sec > 7sec, No longer spawns Skeletons when destroyed
+Night Witch: Bats spawned when destroyed: 2 > 4
+Wall Breakers: Elixir cost: 3 > 2, Damage: -10%, Mass: +100%
+Fisherman: Damage: -6%, Hitpoints: -5%
+Hunter: Damage: +2%
+Giant Snowball: Knockback: -17%
+}
+
+
+2019.11.04
+{
+Witch: Removed Area Damage, Hit Speed reduced: 1.4sec > 1.7sec, Slower first Skeleton spawn: 1sec -> 3.5sec, Mass increased: 100% (no longer pushed by Skeletons)
+Elixir Golem: Hitpoints: -10%, Affects all forms (Elixir Golem, Elixir Golemite, Elixir Blob)
+Wall Breakers: Damage: -19%, Area Damage Radius reduced: 2.0 > 1.5, Deploy slightly further apart
+Fisherman: Hook Range reduced: 7 > 6, Hook Charge Time increased: 1sec > 1.1sec
+Executioner: Max Range: 4.5 > 5, Axe Radius: -20%, Axe Hover Time increased: 1.0s -> 1.2
+Barbarian Barrel: Damage: +8%
+Baby Dragon: Hitpoints: -4.5%
+}
+
